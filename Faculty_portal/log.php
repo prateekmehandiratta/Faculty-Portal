@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<title>FACULTY PORTAL</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="log.css">
+	</head>
+	<body>
+		<div class="img0">
+			<div id="nav">
+				<ul>
+					<li><a href="home.php">HOME</a></li>
+					<li class="active"><a href="login.php">LOGIN</a></li>
+					<li><a href="reg.php">REGISTER</a></li>
+                    <li><a href="guest.php">GUEST</a></li>
+                    <li><a href="display.php">DISPLAY</a></li>
+				</ul>
+			</div>
+			<form action="login.php" method="post">
+				<input type="text" name="Username" placeholder="Email or Username" required>
+				<input type="password" name="Password" placeholder="Password" required>
+				<input type="submit" value="login">
+			</form>
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
