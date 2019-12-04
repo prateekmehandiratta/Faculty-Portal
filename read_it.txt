@@ -1,0 +1,11 @@
+Faculty_portal
+>store all the files in c/xampp/htdocs/Faculty_portal
+>remove the mongodb task from the task manager
+>set two commands in two different terminals, >mongo and >mongod to establish a new connection with mongodb
+>open the xampp_control from c/xampp/xampp_control and start the local host
+>Now open the web browser and type URL: localhost/Faculty_portal/home.php
+
+Faculty_leave_portal
+>store all the files in c/xampp/htdocs/Faculty_leave_portal
+>open the xampp_control from c/xampp/xampp_control and start the localhost as well as mysqli and also the admin of mysqli
+>Now open the web browser and type URL: localhost/Faculty_leave_portal/home.php
